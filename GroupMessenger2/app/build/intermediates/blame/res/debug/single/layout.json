@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/res/merged/debug/layout/activity_group_messenger.xml",
+        "source": "/home/chintan/AndroidStudioProjects/GroupMessenger2/app/src/main/res/layout/activity_group_messenger.xml"
+    },
+    {
+        "merged": "/home/chintan/AndroidStudioProjects/GroupMessenger2-chintan/app/build/intermediates/res/merged/debug/layout/activity_group_messenger.xml",
+        "source": "/home/chintan/AndroidStudioProjects/GroupMessenger2-chintan/app/src/main/res/layout/activity_group_messenger.xml"
+    }
+]
